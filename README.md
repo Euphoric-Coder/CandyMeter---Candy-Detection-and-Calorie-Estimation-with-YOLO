@@ -74,11 +74,11 @@ Each class is associated with an **average calorie value** (per fun-size pack or
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/candy-detection.git
+git clone https://github.com/Euphoric-Coder/CandyMeter---Candy-Detection-and-Calorie-Estimation-with-YOLO.git
 ```
 
 ```bash
-cd candy-detection
+cd CandyMeter---Candy-Detection-and-Calorie-Estimation-with-YOLO
 ```
 
 ```bash
@@ -92,9 +92,10 @@ source VENV/bin/activate
 ```bash
 VENV\Scripts\activate      
 ```
+Then install the dependencies for the project from the requirements.txt file
 
 ```bash
-pip install ultralytics opencv-python pyyaml numpy
+pip install --upgrade -r requirements.txt
 ```
 
 ## Usage
