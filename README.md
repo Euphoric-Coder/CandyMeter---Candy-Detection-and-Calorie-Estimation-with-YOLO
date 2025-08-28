@@ -1,6 +1,6 @@
 # Candy Detection & Calorie Estimation with YOLO
 
-This project is a **Applied Computer Vision Project** that uses [Ultralytics YOLO11](https://github.com/ultralytics/ultralytics) to detect various candy types in **images, videos, and live camera feeds**, while also estimating the **calorie count per frame**.
+This project is a **Applied Computer Vision Project** that uses [Ultralytics YOLO11](https://docs.ultralytics.com/models/yolo11/) to detect various candy types in **images, videos, and live camera feeds**, while also estimating the **calorie count per frame**.
 
 The system can:
 - Detect 11 different candy classes.
